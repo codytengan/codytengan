@@ -1,5 +1,6 @@
 ## Hi, I’m @codytengan
-- I’m majoring in Computer & Data Science while minoring in Public Health
+- Currently studying at Chaminade University of Honolulu
+- Majoring in Computer & Data Science while minoring in Public Health
 - I live in Mililani, Hawaii
 - You can reach me at [ctengan05@gmail.com ](mailto:ctengan05@gmail.com)
 
