@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codytengan
-- 🌱 I’m currently earning a degree in computer science
+- 🌱 I’m currently earning a degree in computer & data science while minoring in public health
 
 
 <!---
