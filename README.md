@@ -1,7 +1,7 @@
 ## Hi, I’m @codytengan
 - I’m currently earning a degree in computer & data science while minoring in public health
 - I live in Mililani, Hawaii
-- You can reach me through [Email ](mailto:ctengan05@gmail.com)
+- You can reach me at [ctengan05@gmail.com ](mailto:ctengan05@gmail.com)
 
 
 <!---
