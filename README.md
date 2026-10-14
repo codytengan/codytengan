@@ -1,5 +1,5 @@
 ## Hi, I’m @codytengan
-- I’m currently earning a degree in computer & data science while minoring in public health
+- I’m majoring in Computer & Data Science while minoring in Public Health
 - I live in Mililani, Hawaii
 - You can reach me at [ctengan05@gmail.com ](mailto:ctengan05@gmail.com)
 
